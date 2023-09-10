@@ -15,11 +15,11 @@ Modern day transistors use the semiconductor silicon. The silicon is doped to be
 
 Essentially if the voltage passing through the base pin does not reach a voltage threshold, energy will not flow through the transistor 
 
-## What is an IC (integrated circuit) then? 
+## What is an IC (integrated circuit) then? 
 - just an array of transistors packed onto a semiconductor material (usually silicon)
 - usually just perform one task and are connected together to preform various functions. 
 
-## FPGAs (Field-programmable Gate Array)
+## FPGAs (Field-programmable Gate Array)
 
 - A type of integrated circuit
 - can be reprogrammed and reconfigured after manufacturing to allow users to change their functionality. 
