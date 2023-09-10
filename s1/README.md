@@ -11,7 +11,7 @@ Modern day transistors use the semiconductor silicon. The silicon is doped to be
     - Base pin 
     - collector pin  
         - can either be PNP (PMOS) or NPN (NMOS) transistor 
-            - [https://www.youtube.com/watch?v=J4oO7PT_nzQ](./transistor_diagram.png) 
+            - ![Transistor](./transistor_diagram.png) 
 
 Essentially if the voltage passing through the base pin does not reach a voltage threshold, energy will not flow through the transistor 
 
