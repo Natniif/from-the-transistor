@@ -76,9 +76,11 @@ An interface that sends out a byte at a time over a single wire. Baud rate is th
 
 Data does not arrive with a clock so it asynchronous. If the transmitter do not agree on the baud rate then you can read the wrong data. 
 
-The FPGA waits for dip in the signal then waits one bit period (specified by baud rate) then reads from middle of first bit then waits one period 7 more times to collect data from all 8 bits.
+The FPGA reciever continuously waits for dip in the signal then waits one bit period (specified by baud rate) then reads from middle of first bit then waits one period 7 (or whatever size the data is agreed to be sent in) more times to collect data from all 8 bits.
 
 [UART](./UART_example.png)
 
 Need to write this in a verilog program 
+
+https://nandland.com/uart-serial-port-module/
 
