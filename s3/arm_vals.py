@@ -1,0 +1,2 @@
+opcode_table = {
+}
