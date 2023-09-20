@@ -11,3 +11,5 @@ We are going to be using the ARM7.
 
 For example MOV can be translated using ARM instruction set into `1101`
 
+[ARM instruction set](https://iitd-plos.github.io/col718/ref/arm-instructionset.pdf)
+
