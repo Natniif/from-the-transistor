@@ -1,8 +1,10 @@
-## From the Transistor to the Web Browser
+# From the Transistor to the Web Browser
 
-Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
+This is a course that George Hotz created to teach people the entire software stack on your computer. Completing this project is a long term goal for me and in my opinion the time frames on some of the weeks for people with no prior knowledge are a bit ridiculous (see week 5). 
 
-Now cleaned up and going to be software only. Closer to being real.
+At some point I intent on purchasing an FPGA and porting all this code onto it to try get this working. 
+
+## Course Overview
 
 #### Section 1: Intro: Cheating our way past the transistor -- 0.5 weeks
 - So about those transistors -- Course overview. Describe how FPGAs are buildable using transistors, and that ICs are just collections of transistors in a nice reliable package. Understand the LUTs and stuff. Talk briefly about the theory of transistors, but all projects must build on each other so we can’t build one.
